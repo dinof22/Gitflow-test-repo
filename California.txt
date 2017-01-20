@@ -1,0 +1,3 @@
+Callifornia is an awesome state! it also has weather!! 
+
+its weather is stored in the weather text
