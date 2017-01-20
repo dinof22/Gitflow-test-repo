@@ -5,3 +5,5 @@ the weather in orem utah today is 32 degrees!
 it is 52 degrees in california! no fair!
 
 in my house its probably 70 degrees. i am trying to get git to thow me an error so im making this directly withing the develope branch
+
+its 41 degrees in new york. pretty cold
